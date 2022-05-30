@@ -9,8 +9,6 @@
 }
 nav {
     flex-direction: row;
-    /*display: flex;
-    justify-content: space-between;*/
     margin-top: 47px;
 }    
 .container_one {
@@ -28,7 +26,6 @@ main {
     margin: 24px auto;
 }
 .group_main {
-   /* display: flex;*/
     flex-direction: column;
     align-items: center;
     justify-content: center;

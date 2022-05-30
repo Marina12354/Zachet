@@ -1,7 +1,5 @@
 @media screen and (min-width:375px) and (max-width: 767px) {
- /*body {
-        min-width: 320px;
-    }*/
+ 
 header {
     height: 376px;
     background: linear-gradient(0deg, #DAEAF7 8.84%, rgba(152, 195, 232, 0) 31.12%);    
@@ -105,7 +103,6 @@ main h3 {
     width: 343px;
     border-radius: 20px;
     grid-template-rows: repeat(4, max-content);
-    /*display: block;*/
 }
 .home {
     width: 343px;
