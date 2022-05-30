@@ -57,7 +57,7 @@ main {
     margin-left: 35px;
 }
 .arrey::before {
-    content: url('../img/arrey.png');
+    content: url('./img/arrey.png');
     float: right;
     margin: 3px 170px 0 15px;
 }
